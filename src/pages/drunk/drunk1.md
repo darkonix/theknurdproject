@@ -1,0 +1,21 @@
+---
+title: 'Drunk Report #1'
+id: 'https//darkonix.hipcast.com/deluge/drunkreport1.mp3'
+description: 'Chivas Regal aged 12 years'
+url: 'https//drunkreport.captivate.fm/episode/drunk-report-1'
+link: 'https//drunkreport.captivate.fm/episode/drunk-report-1'
+author: 'Darkonix'
+created: '1562211000000'
+category: ''
+itunes_summary: 'Chivas Regal aged 12 years'
+itunes_author: 'Darkonix'
+itunes_explicit: 'no'
+itunes_duration: '014500'
+duration: '105'
+itunes_episode: '1'
+itunes_episode_type: 'full'
+enclosures_url_1: 'https//podcasts.captivate.fm/media/338fb5b5-7093-4981-b4cd-d792db1aa723/drunkreport1_tc.mp3'
+enclosures_length_1: '101136735'
+enclosures_type_1: 'audio/mpeg'
+---
+Chivas Regal aged 12 years

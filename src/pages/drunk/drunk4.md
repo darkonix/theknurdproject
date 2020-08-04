@@ -1,0 +1,21 @@
+---
+title: 'Drunk Report #4'
+id: 'f54f824d-abd6-47d9-9370-ce638ceafa17'
+description: 'Blenders Pride Honey'
+url: 'https//drunkreport.captivate.fm/episode/drunk-report-4'
+link: 'https//drunkreport.captivate.fm/episode/drunk-report-4'
+author: 'The Knurd Project'
+created: '1589066100000'
+category: ''
+itunes_summary: 'Blenders Pride Honey'
+itunes_author: 'The Knurd Project'
+itunes_explicit: 'yes'
+itunes_duration: '020354'
+duration: '124'
+itunes_episode: '4'
+itunes_episode_type: 'full'
+enclosures_url_1: 'https//podcasts.captivate.fm/media/92be2725-0c3e-4e22-a27d-df7ffa4ac531/drunk4.mp3'
+enclosures_length_1: '119289107'
+enclosures_type_1: 'audio/mpeg'
+---
+Blender's Pride Honey

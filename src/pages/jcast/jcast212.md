@@ -1,0 +1,63 @@
+---
+title: 'JCast #212'
+id: 'https//darkonix.hipcast.com/deluge/jcast212.mp3'
+description: 'APOIE O NOSSO APOIA.SE COM O SEU APOIO PFVR https//apoia.se/theknurdproject
+
+
+Ela sempre sonhava com coisas desconexas e muito específicas quando desmaiava, porém dessa vez fora mais pesado que o normal, então ela sonhou com manjericão, com aviões, artigos sobre buracos negros e vasos amaldiçoados...Em algum recôndito cerebral todos esses e outros elementos se conectavam, passavam uma mensagem e colocavam pra fora alguma questão que talvez necessitasse de maior atenção. Somente uma dessas mensagens costumava ser facilmente decifrada, e sua principal preocupação quando foi ao chão também protagonizou boa parte de seus delírios inconscientes; E era sobre o maldito vaso amaldiçoado que ela pensava enquanto lentamente recobrava os sentidos e segundos antes de sentir uma dor aguda na cabeça, aquela dor que só ocorre quando seu corpo bate no chão sem encontrar nenhum tipo de resistência, a dor que alguém sentiria se estivesse ressuscitando, talvez...Gabriela sonhara também com ressureição, ela agora se lembrava; ela sempre se lembrava dos sonhos mais absurdos primeiro, se perdia em detalhes de dois ou três deles e em segundos os esquecia por completo. E agora qualquer outro sonho era esquecido imediaramente, afogado pela urgência da situação assustadora e desconhecida em que se encontrava.
+
+
+Gabriela se via incrédula, quase boquiaberta, sem sequer saber como traduzir no rosto as novas emoções que cruzavam seu corpo, enquanto sentava no chão agora vazio de seu apartamento quase totalmente vazio, repentinamente espaçoso agora que mais da metade do lixo inútil que guardava havia desaparecido. Ela correu os olhos de um lado a outro do cômodo, tentando lembrar de todas as coisas que antes estiveram ali, a fim de conferir a veracidade da profecia, e notar que apenas itens relacionados a seus crimes haviam sumido; Tais itens eram tão numerosos e sem importância que perceber seu sumiço seria desafiador até mesmo para uma garota que não tivesse acabado de quase sofrer um traumatismo craniano. Algumas faltas eram mais obviamente sentidas que outras, como o relógio cuco acima da TV, que por acaso ainda estava ali, a despeito de também ter sido adquirida com dinheiro de proveniência ilegal. Talvez Gabriela devesse ficar olhando pra ela, pra ver se realmente desaparecia no ar. Talvez se a TV quebrasse o padrão e permanecesse em seu devido e lógico e previsível lugar, Gabriela teria a prova definitiva de que não estava sendo punida por forças sobrenaturais. Talvez ela estivesse mesmo precisando do suco detox e tudo fosse uma alucinação. Se pelo menos conseguisse falar com Valéria, poderia esclarecer o que havia acontecido nas horas perdidas.
+
+
+Olhando em volta, ainda meio zonza, Gabriela percebeu que o celular de Valéria provavelmente voltara ao lugar em que pertencia, ou seja, diante do rosto obcecado de sua amiga. Ele não mais estava caído no chão, o que dava credibilidade à teoria de que tudo era alucinação e garantia então a Gabriela o direito de ligar de novo para a amiga. Ela pegou seu telefone, iniciou a chamada e os toques começaram. Ela nada ouvia no recinto, ainda bem, e começava a pensar aliviada que talvez o desmaio tivesse ajudado a sacudi-la de volta para a realidade.
+
+
+A sensação de frio na barriga que Gabriela teve quando os toques pararam e ouviu um certo ruído de carros passando e vento soprando era sem precedentes; por alguns segundos ela não sabia se a ligação fora atendida ou caíra, se os ruídos eram mesmo de um lugar real ou apenas estática interpretada erroneamente por ouvidos esperançosos. E então seu sofrimento entrou em um momentâneo hiato.
+
+
+– Alô, Gabi?
+
+
+– PUTA QUE O PARIU, VALÉRIA! – Exclamou Gabriela, tão nervosa que nem estranhara o fato de que Valéria não atendera com &quot;Fala, piranha&quot;, e quase nunca a chamava por &quot;Gabi&quot;. Ela não diminuiu o tom enquanto colocava-se de pé cambaleante, sentindo que precisava fazer Valéria sentir-se espancada apenas com o poder de sua...'
+url: 'https//jcast.captivate.fm/episode/jcast-212'
+link: 'https//jcast.captivate.fm/episode/jcast-212'
+author: 'Mycke Ramos'
+created: '1558991300000'
+category: ''
+itunes_summary: 'APOIE O NOSSO APOIA.SE COM O SEU APOIO PFVR https//apoia.se/theknurdproject
+
+Ela sempre sonhava com coisas desconexas e muito específicas quando desmaiava, porém dessa vez fora mais pesado que o normal, então ela sonhou com manjericão, com aviões, artigos sobre buracos negros e vasos amaldiçoados...Em algum recôndito cerebral todos esses e outros elementos se conectavam, passavam uma mensagem e colocavam pra fora alguma questão que talvez necessitasse de maior atenção. Somente uma dessas mensagens costumava ser facilmente decifrada, e sua principal preocupação quando foi ao chão também protagonizou boa parte de seus delírios inconscientes; E era sobre o maldito vaso amaldiçoado que ela pensava enquanto lentamente recobrava os sentidos e segundos antes de sentir uma dor aguda na cabeça, aquela dor que só ocorre quando seu corpo bate no chão sem encontrar nenhum tipo de resistência, a dor que alguém sentiria se estivesse ressuscitando, talvez...Gabriela sonhara também com ressureição, ela agora se lembrava; ela sempre se lembrava dos sonhos mais absurdos primeiro, se perdia em detalhes de dois ou três deles e em segundos os esquecia por completo. E agora qualquer outro sonho era esquecido imediaramente, afogado pela urgência da situação assustadora e desconhecida em que se encontrava.
+
+Gabriela se via incrédula, quase boquiaberta, sem sequer saber como traduzir no rosto as novas emoções que cruzavam seu corpo, enquanto sentava no chão agora vazio de seu apartamento quase totalmente vazio, repentinamente espaçoso agora que mais da metade do lixo inútil que guardava havia desaparecido. Ela correu os olhos de um lado a outro do cômodo, tentando lembrar de todas as coisas que antes estiveram ali, a fim de conferir a veracidade da profecia, e notar que apenas itens relacionados a seus crimes haviam sumido; Tais itens eram tão numerosos e sem importância que perceber seu sumiço seria desafiador até mesmo para uma garota que não tivesse acabado de quase sofrer um traumatismo craniano. Algumas faltas eram mais obviamente sentidas que outras, como o relógio cuco acima da TV, que por acaso ainda estava ali, a despeito de também ter sido adquirida com dinheiro de proveniência ilegal. Talvez Gabriela devesse ficar olhando pra ela, pra ver se realmente desaparecia no ar. Talvez se a TV quebrasse o padrão e permanecesse em seu devido e lógico e previsível lugar, Gabriela teria a prova definitiva de que não estava sendo punida por forças sobrenaturais. Talvez ela estivesse mesmo precisando do suco detox e tudo fosse uma alucinação. Se pelo menos conseguisse falar com Valéria, poderia esclarecer o que havia acontecido nas horas perdidas.
+
+Olhando em volta, ainda meio zonza, Gabriela percebeu que o celular de Valéria provavelmente voltara ao lugar em que pertencia, ou seja, diante do rosto obcecado de sua amiga. Ele não mais estava caído no chão, o que dava credibilidade à teoria de que tudo era alucinação e garantia então a Gabriela o direito de ligar de novo para a amiga. Ela pegou seu telefone, iniciou a chamada e os toques começaram. Ela nada ouvia no recinto, ainda bem, e começava a pensar aliviada que talvez o desmaio tivesse ajudado a sacudi-la de volta para a realidade.
+
+A sensação de frio na barriga que Gabriela teve quando os toques pararam e ouviu um certo ruído de carros passando e vento soprando era sem precedentes; por alguns segundos ela não sabia se a ligação fora atendida ou caíra, se os ruídos eram mesmo de um lugar real ou apenas estática interpretada erroneamente por ouvidos esperançosos. E então seu sofrimento entrou em um momentâneo hiato.
+
+ – Alô, Gabi?
+
+ – PUTA QUE O PARIU, VALÉRIA! – Exclamou Gabriela, tão nervosa que nem estranhara o fato de que Valéria não atendera com "Fala, piranha", e quase nunca a chamava por "Gabi". Ela não diminuiu o tom enquanto colocava-se de pé cambaleante, sentindo que precisava fazer Valéria sentir-se espancada apenas com o poder de sua indignação. – PORRA MANO, cadê...'
+itunes_author: 'Mycke Ramos'
+itunes_explicit: 'yes'
+itunes_duration: '014459'
+duration: '105'
+itunes_episode: '212'
+itunes_episode_type: 'full'
+enclosures_url_1: 'https//podcasts.captivate.fm/media/39647a91-5b33-44a6-863d-4ccde4e75891/jcast212_tc.mp3'
+enclosures_length_1: '101390959'
+enclosures_type_1: 'audio/mpeg'
+---
+APOIE O NOSSO APOIA.SE COM O SEU APOIO PFVR: https://apoia.se/theknurdproject
+
+Ela sempre sonhava com coisas desconexas e muito específicas quando desmaiava, porém dessa vez fora mais pesado que o normal, então ela sonhou com manjericão, com aviões, artigos sobre buracos negros e vasos amaldiçoados...Em algum recôndito cerebral todos esses e outros elementos se conectavam, passavam uma mensagem e colocavam pra fora alguma questão que talvez necessitasse de maior atenção. Somente uma dessas mensagens costumava ser facilmente decifrada, e sua principal preocupação quando foi ao chão também protagonizou boa parte de seus delírios inconscientes; E era sobre o maldito vaso amaldiçoado que ela pensava enquanto lentamente recobrava os sentidos e segundos antes de sentir uma dor aguda na cabeça, aquela dor que só ocorre quando seu corpo bate no chão sem encontrar nenhum tipo de resistência, a dor que alguém sentiria se estivesse ressuscitando, talvez...Gabriela sonhara também com ressureição, ela agora se lembrava; ela sempre se lembrava dos sonhos mais absurdos primeiro, se perdia em detalhes de dois ou três deles e em segundos os esquecia por completo. E agora qualquer outro sonho era esquecido imediaramente, afogado pela urgência da situação assustadora e desconhecida em que se encontrava.
+
+Gabriela se via incrédula, quase boquiaberta, sem sequer saber como traduzir no rosto as novas emoções que cruzavam seu corpo, enquanto sentava no chão agora vazio de seu apartamento quase totalmente vazio, repentinamente espaçoso agora que mais da metade do lixo inútil que guardava havia desaparecido. Ela correu os olhos de um lado a outro do cômodo, tentando lembrar de todas as coisas que antes estiveram ali, a fim de conferir a veracidade da profecia, e notar que apenas itens relacionados a seus crimes haviam sumido; Tais itens eram tão numerosos e sem importância que perceber seu sumiço seria desafiador até mesmo para uma garota que não tivesse acabado de quase sofrer um traumatismo craniano. Algumas faltas eram mais obviamente sentidas que outras, como o relógio cuco acima da TV, que por acaso ainda estava ali, a despeito de também ter sido adquirida com dinheiro de proveniência ilegal. Talvez Gabriela devesse ficar olhando pra ela, pra ver se realmente desaparecia no ar. Talvez se a TV quebrasse o padrão e permanecesse em seu devido e lógico e previsível lugar, Gabriela teria a prova definitiva de que não estava sendo punida por forças sobrenaturais. Talvez ela estivesse mesmo precisando do suco detox e tudo fosse uma alucinação. Se pelo menos conseguisse falar com Valéria, poderia esclarecer o que havia acontecido nas horas perdidas.
+
+Olhando em volta, ainda meio zonza, Gabriela percebeu que o celular de Valéria provavelmente voltara ao lugar em que pertencia, ou seja, diante do rosto obcecado de sua amiga. Ele não mais estava caído no chão, o que dava credibilidade à teoria de que tudo era alucinação e garantia então a Gabriela o direito de ligar de novo para a amiga. Ela pegou seu telefone, iniciou a chamada e os toques começaram. Ela nada ouvia no recinto, ainda bem, e começava a pensar aliviada que talvez o desmaio tivesse ajudado a sacudi-la de volta para a realidade.
+
+A sensação de frio na barriga que Gabriela teve quando os toques pararam e ouviu um certo ruído de carros passando e vento soprando era sem precedentes; por alguns segundos ela não sabia se a ligação fora atendida ou caíra, se os ruídos eram mesmo de um lugar real ou apenas estática interpretada erroneamente por ouvidos esperançosos. E então seu sofrimento entrou em um momentâneo hiato.
+
+– Alô, Gabi?
+
+– PUTA QUE O PARIU, VALÉRIA! – Exclamou Gabriela, tão nervosa que nem estranhara o fato de que Valéria não atendera com "Fala, piranha", e quase nunca a chamava por "Gabi". Ela não diminuiu o tom enquanto colocava-se de pé cambaleante, sentindo que precisava fazer Valéria sentir-se espancada apenas com o poder de sua indignação. – PORRA MANO, cadê você? Car

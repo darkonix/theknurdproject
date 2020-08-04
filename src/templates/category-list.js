@@ -5,7 +5,6 @@ import { Link, graphql } from "gatsby"
 import BlogIndex from "../components/BlogIndex"
 
 const BlogList = ({ data, pageContext}) => {
-  console.log(data)
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
   const {numPages, currentPage, category } = pageContext

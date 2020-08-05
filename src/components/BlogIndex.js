@@ -27,7 +27,7 @@ const BlogIndex = ({ siteTitle, location, posts, numPages, currentPage, category
             <h3
               style={{
                 marginTop: rhythm(1),
-                marginBottom: rhythm(1 / 4),
+                marginBottom: 0,
                 textDecoration: 'underline',
               }}
             >
@@ -35,9 +35,12 @@ const BlogIndex = ({ siteTitle, location, posts, numPages, currentPage, category
                 {title}
               </Link>
             </h3>
-            <small>
-              {moment(parseInt(node.frontmatter.created)).format('DD/MM/YYYY')}
-              {` • ${(node.frontmatter.duration.length > 3) ? Math.ceil(node.frontmatter.duration / 60) : node.frontmatter.duration} min 🎧`}
+            <small style={{ marginBottom: rhythm(1 / 4) }}>
+              {`${node.frontmatter.published_date} • `}
+               
+               <Link style={{ boxShadow: 'none' }} to={node.frontmatter.media_url.replace('//', '://')}>
+                Download
+              </Link>
             </small>
             {
               <iframe

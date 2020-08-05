@@ -1,38 +1,40 @@
 ---
-title: 'Café com Zeta Gundam #32'
 id: '53ed675b-bd5d-4e23-9d24-25a4cd477a37'
-description: 'Uma nave parte do asteróide Axis, e a Argama e a Dogosse Gier começam uma corrida para ver quem fechará uma aliança com Zeon primeiro a AEUG ou os Titans.
-
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject) 
-
-
- <a rel="payment" href="https//apoia.se/theknurdproject">Support this podcast</a>'
-url: 'https//cafecomgundam.captivate.fm/episode/cafe-com-zeta-gundam-32'
-link: 'https//cafecomgundam.captivate.fm/episode/cafe-com-zeta-gundam-32'
+shows_id: '97017ac7-71ca-4113-b131-56c1003ec136'
+media_id: '96eb5fb8-c59c-461a-ba7d-3fd132cd1c95'
+title: 'Café com Zeta Gundam #32'
+itunes_title: ''
+published_date: '2020-05-30T080000.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/c9fa9fc1-1d54-4a95-baff-9e3296b40a3e/cafecomgundamz32.jpg'
+shownotes: '<p>Uma nave parte do asteróide Axis, e a Argama e a Dogosse Gier começam uma corrida para ver quem fechará uma aliança com Zeon primeiro a AEUG ou os Titans.</p><p>Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!</p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: '87'
+episode_number: '32'
+itunes_subtitle: '謎のモビルスーツ - Mobile Suits Não Identificadas'
 author: 'The Knurd Project'
-created: '1590836400000'
-category: ''
-itunes_summary: 'Uma nave parte do asteróide Axis, e a Argama e a Dogosse Gier começam uma corrida para ver quem fechará uma aliança com Zeon primeiro a AEUG ou os Titans.
-
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-itunes_author: 'The Knurd Project'
-itunes_explicit: 'no'
-itunes_duration: '4439'
-duration: '2679'
-itunes_season: '87'
-itunes_episode: '32'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/96eb5fb8-c59c-461a-ba7d-3fd132cd1c95/cafecomgundamz32.mp3'
-enclosures_length_1: '43134331'
-enclosures_type_1: 'audio/mpeg'
+link: ''
+explicit: 'clean'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'cafe-com-zeta-gundam-32'
+seo_title: 'Café com Zeta Gundam #32'
+seo_description: 'Uma nave parte do asteróide Axis, e a Argama e a Dogosse Gier começam uma corrida para ver quem fechará uma aliança com Zeon primeiro.'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/96eb5fb8-c59c-461a-ba7d-3fd132cd1c95/cafecomgundamz32.mp3'
 ---
 Uma nave parte do asteróide Axis, e a Argama e a Dogosse Gier começam uma corrida para ver quem fechará uma aliança com Zeon primeiro: a AEUG ou os Titans.
 

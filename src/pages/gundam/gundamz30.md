@@ -1,38 +1,40 @@
 ---
-title: 'Café com Zeta Gundam #30'
 id: '1752f826-71ae-40aa-a54d-3b43280525c6'
-description: 'A Alexandria prepara uma emboscada contra a Argama um ataque aéreo como distração liderado por Yazan, junto a um ataque surpresa de Jerid e Mouar, que estão escondidos em uma colônia abandonada.
-
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject) 
-
-
- <a rel="payment" href="https//apoia.se/theknurdproject">Support this podcast</a>'
-url: 'https//cafecomgundam.captivate.fm/episode/cafe-com-zeta-gundam-30'
-link: 'https//cafecomgundam.captivate.fm/episode/cafe-com-zeta-gundam-30'
+shows_id: '97017ac7-71ca-4113-b131-56c1003ec136'
+media_id: '27a4d256-b8db-49ca-94c5-77392e67cf1f'
+title: 'Café com Zeta Gundam #30'
+itunes_title: ''
+published_date: '2020-05-09T080000.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/3b057a26-db4b-439e-b55b-9ea7d9b20269/cafecomgundamz30s.jpg'
+shownotes: '<p>A Alexandria prepara uma emboscada contra a Argama um ataque aéreo como distração liderado por Yazan, junto a um ataque surpresa de Jerid e Mouar, que estão escondidos em uma colônia abandonada.</p><p>Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!</p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: '87'
+episode_number: '30'
+itunes_subtitle: 'ジェリド特攻 - O Ataque Desesperado de Jerid'
 author: 'The Knurd Project'
-created: '1589022000000'
-category: ''
-itunes_summary: 'A Alexandria prepara uma emboscada contra a Argama um ataque aéreo como distração liderado por Yazan, junto a um ataque surpresa de Jerid e Mouar, que estão escondidos em uma colônia abandonada.
-
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-itunes_author: 'The Knurd Project'
-itunes_explicit: 'no'
-itunes_duration: '4134'
-duration: '2494'
-itunes_season: '87'
-itunes_episode: '30'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/27a4d256-b8db-49ca-94c5-77392e67cf1f/cafecomgundamz30.mp3'
-enclosures_length_1: '40109747'
-enclosures_type_1: 'audio/mpeg'
+link: ''
+explicit: 'clean'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'cafe-com-zeta-gundam-30'
+seo_title: 'Café com Zeta Gundam #30'
+seo_description: 'A Alexandria prepara uma emboscada contra a Argama um ataque aéreo como distração junto a um ataque surpresa de Jerid e Mouar.'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/27a4d256-b8db-49ca-94c5-77392e67cf1f/cafecomgundamz30.mp3'
 ---
 A Alexandria prepara uma emboscada contra a Argama: um ataque aéreo como distração liderado por Yazan, junto a um ataque surpresa de Jerid e Mouar, que estão escondidos em uma colônia abandonada.
 

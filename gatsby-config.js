@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'The Knurd Project',
-    author: 'Darkonix & Laivindil',
-    description: '',
+    author: 'Darkonix, Dri & Laivindil',
+    description: 'Podcasts Amadores Anticoloniais',
     siteUrl: 'https://knurd.com.br',
     social: {
       twitter: '@theknurdproject',

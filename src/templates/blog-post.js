@@ -36,7 +36,14 @@ class BlogPostTemplate extends React.Component {
         }}>
           <h1><a href="/">The Knurd Project</a></h1>
           <Subscribe />
-          <h2>{post.frontmatter.title}</h2>
+          <h2 style={{ marginBottom: '.25em' }}>{post.frontmatter.title}</h2>
+          <small style={{ marginBottom: '1.75em' }}>
+              {`${post.frontmatter.published_date} • `}
+               
+               <Link style={{ boxShadow: 'none' }} to={post.frontmatter.media_url.replace('//', '://')}>
+                Download
+              </Link>
+            </small>
         </div>
       
         {
@@ -102,9 +109,8 @@ export const pageQuery = graphql`
       frontmatter {
         id
         title
-        description
-        duration
-        created
+        published_date(formatString: "DD/MM/YY")
+        media_url
       }
       fields {
         slug

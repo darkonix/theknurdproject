@@ -1,34 +1,40 @@
 ---
-title: 'JCast #216'
 id: '5bec50ed-6f07-4c91-ad45-29abf023f1d4'
-description: '000135 Shaman King, Shaman King Flowers e Shaman King The Super Star
-
-
-Featuring music Megumi Hayashibara - Over Soul e Picky Picnic - Aischu No Melody (The Setting Sun in Africa)
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-url: 'https//jcast.captivate.fm/episode/jcast-216'
-link: 'https//jcast.captivate.fm/episode/jcast-216'
+shows_id: '66a084af-ff91-411c-82f1-853c5454eaff'
+media_id: '2002de28-ab7e-4660-aedc-014a760c6fcf'
+title: 'JCast #216'
+itunes_title: ''
+published_date: '2020-04-23T200000.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/95653e4c-95ce-4dd0-80ff-7b065e9619cb/jcast216s.jpg'
+shownotes: '<ul><li>000135 Shaman King, Shaman King Flowers e Shaman King The Super Star</li></ul><p>Featuring music <strong>Megumi Hayashibara - Over Soul</strong> e <strong>Picky Picnic - Aischu No Melody (The Setting Sun in Africa)</strong></p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '126'
+itunes_subtitle: ''
 author: 'The Knurd Project'
-created: '1587686400000'
-category: ''
-itunes_summary: '000135 Shaman King, Shaman King Flowers e Shaman King The Super Star
-
-
-Featuring music Megumi Hayashibara - Over Soul e Picky Picnic - Aischu No Melody (The Setting Sun in Africa)
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-itunes_author: 'The Knurd Project'
-itunes_explicit: 'yes'
-itunes_duration: '010332'
-duration: '64'
-itunes_episode: '126'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/2002de28-ab7e-4660-aedc-014a760c6fcf/jcast216.mp3'
-enclosures_length_1: '61639017'
-enclosures_type_1: 'audio/mpeg'
+link: ''
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'jcast-216'
+seo_title: 'JCast #216'
+seo_description: 'Shaman King, Shaman King Flowers e Shaman King The Super Star'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/2002de28-ab7e-4660-aedc-014a760c6fcf/jcast216.mp3'
 ---
 *   00:01:35 Shaman King, Shaman King Flowers e Shaman King The Super Star
 

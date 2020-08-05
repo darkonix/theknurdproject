@@ -1,0 +1,43 @@
+---
+id: 'aec3ea16-68df-498c-abb8-bc13de71c880'
+shows_id: '1a361d2d-0652-4b5f-aa4c-03181ab7c2d8'
+media_id: 'f60b0e0e-9524-4fd6-a440-4f2af9f9de48'
+title: 'Knurd Report #65a'
+itunes_title: ''
+published_date: '2020-03-06T171700.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/2e5410cd-777f-4f15-a841-e75853f7c3c1/knurd65as.jpg'
+shownotes: '<p>000110 Doctor Who | Temporada 12 | Eps. 7 a 10</p><p>Featuring music <strong>Segun Akinola - Doctor Who Series 11 Opening Titles</strong> e <strong>Segun Akinola - The Doctor (feat. Hollie Buhagiar)</strong></p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: '65'
+episode_number: '1'
+itunes_subtitle: ''
+author: 'The Knurd Project'
+link: ''
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'knurd-report-65a'
+seo_title: 'Knurd Report #65a'
+seo_description: 'Doctor Who | Temporada 12 | Eps. 7 a 10'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/f60b0e0e-9524-4fd6-a440-4f2af9f9de48/knurd65a.mp3'
+---
+00:01:10 Doctor Who | Temporada 12 | Eps. 7 a 10
+
+Featuring music: **Segun Akinola - Doctor Who Series 11 Opening Titles** e **Segun Akinola - The Doctor (feat. Hollie Buhagiar)**
+
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

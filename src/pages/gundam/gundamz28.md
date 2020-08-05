@@ -1,38 +1,40 @@
 ---
-title: 'Café com Zeta Gundam #28'
 id: '43354b92-3c25-4f9b-bf1b-69a59c1ed947'
-description: 'Reccoa quer se redimir da sua atuação fracassada como espiã em Jaburo, agora se infiltrando na Jupitris.
-
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject) 
-
-
- <a rel="payment" href="https//apoia.se/theknurdproject">Support this podcast</a>'
-url: 'https//cafecomgundam.captivate.fm/episode/cafe-com-zeta-gundam-28'
-link: 'https//cafecomgundam.captivate.fm/episode/cafe-com-zeta-gundam-28'
+shows_id: '97017ac7-71ca-4113-b131-56c1003ec136'
+media_id: '5967bb48-e85a-481f-9262-b068de99e1f5'
+title: 'Café com Zeta Gundam #28'
+itunes_title: ''
+published_date: '2020-04-25T080000.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/45441a13-b88f-4720-8a47-d6c57813bec9/cafecomgundamz28s.jpg'
+shownotes: '<p>Reccoa quer se redimir da sua atuação fracassada como espiã em Jaburo, agora se infiltrando na Jupitris.</p><p>Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!</p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: '87'
+episode_number: '28'
+itunes_subtitle: 'ジュピトリス潜入 - Infiltração na Jupitris'
 author: 'The Knurd Project'
-created: '1587812400000'
-category: ''
-itunes_summary: 'Reccoa quer se redimir da sua atuação fracassada como espiã em Jaburo, agora se infiltrando na Jupitris.
-
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-itunes_author: 'The Knurd Project'
-itunes_explicit: 'no'
-itunes_duration: '4727'
-duration: '2847'
-itunes_season: '87'
-itunes_episode: '28'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/5967bb48-e85a-481f-9262-b068de99e1f5/cafecomgundamz28.mp3'
-enclosures_length_1: '45781289'
-enclosures_type_1: 'audio/mpeg'
+link: ''
+explicit: 'clean'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'cafe-com-zeta-gundam-28'
+seo_title: 'Café com Gundam #28'
+seo_description: 'Reccoa quer se redimir da sua atuação fracassada como espiã em Jaburo, agora se infiltrando na Jupitris.'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/5967bb48-e85a-481f-9262-b068de99e1f5/cafecomgundamz28.mp3'
 ---
 Reccoa quer se redimir da sua atuação fracassada como espiã em Jaburo, agora se infiltrando na Jupitris.
 

@@ -1,34 +1,40 @@
 ---
-title: 'JCast #218'
 id: 'd2c749a1-15bc-4abc-bccf-b72da1362e21'
-description: '000145 Kishiryu Sentai Ryusoulger
-
-
-Featuring music Tomohiro Hatano - Kishiryu Sentai Ryusoulger e Sister MAYO - Que Boom! Ryusoulger
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-url: 'https//jcast.captivate.fm/episode/jcast-218'
-link: 'https//jcast.captivate.fm/episode/jcast-218'
+shows_id: '66a084af-ff91-411c-82f1-853c5454eaff'
+media_id: 'dc732391-628a-4187-93e5-6796bb7e9fa9'
+title: 'JCast #218'
+itunes_title: ''
+published_date: '2020-06-18T200000.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/f8498fdb-479c-46b1-afc0-0af566774a1b/lwolaff8iohoecfuquqwk5x8.jpg'
+shownotes: '<ul><li>000145 Kishiryu Sentai Ryusoulger</li></ul><p>Featuring music <strong>Tomohiro Hatano - Kishiryu Sentai Ryusoulger</strong> e <strong>Sister MAYO - Que Boom! Ryusoulger</strong></p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '128'
+itunes_subtitle: 'Kishiryu Sentai Ryusoulger'
 author: 'The Knurd Project'
-created: '1592524800000'
-category: ''
-itunes_summary: '000145 Kishiryu Sentai Ryusoulger
-
-
-Featuring music Tomohiro Hatano - Kishiryu Sentai Ryusoulger e Sister MAYO - Que Boom! Ryusoulger
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-itunes_author: 'The Knurd Project'
-itunes_explicit: 'yes'
-itunes_duration: '013759'
-duration: '98'
-itunes_episode: '128'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/dc732391-628a-4187-93e5-6796bb7e9fa9/jcast218.mp3'
-enclosures_length_1: '94913317'
-enclosures_type_1: 'audio/mpeg'
+link: ''
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'jcast-218'
+seo_title: 'JCast #218'
+seo_description: 'Kishiryu Sentai Ryusoulger, Super Sentai, Super Hero Time'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/dc732391-628a-4187-93e5-6796bb7e9fa9/jcast218.mp3'
 ---
 *   00:01:45 Kishiryu Sentai Ryusoulger
 

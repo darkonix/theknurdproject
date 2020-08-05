@@ -22,7 +22,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___created], order: DESC }
+      sort: { fields: [frontmatter___published_date], order: DESC }
       limit: $limit
       skip: $skip
       filter: { fields: { category: { eq: $category } } }
@@ -37,10 +37,9 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             id
-            created
-            duration
             title
-            enclosures_url_1
+            published_date(formatString: "DD/MM/YY")
+            media_url
           }
         }
       }

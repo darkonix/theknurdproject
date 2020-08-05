@@ -1,34 +1,40 @@
 ---
-title: 'JCast #215'
 id: '10110290-9854-400b-b001-8b8b3e51e3e6'
-description: '000220 BEASTARS
-
-
-Featuring music ALI - Wild side e YURiKA - Le zoo
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-url: 'https//jcast.captivate.fm/episode/jcast-215'
-link: 'https//jcast.captivate.fm/episode/jcast-215'
+shows_id: '66a084af-ff91-411c-82f1-853c5454eaff'
+media_id: '4dfbc95e-4ea8-4773-97cc-9626d4549399'
+title: 'JCast #215'
+itunes_title: ''
+published_date: '2020-04-09T200000.000Z'
+guid: 'null'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/633a766b-28b0-40af-9222-209e83435259/jcast215s.jpg'
+shownotes: '<p>000220 BEASTARS</p><p>Featuring music <strong>ALI - Wild side</strong> e <strong>YURiKA - Le zoo</strong></p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '215'
+itunes_subtitle: 'BEASTARS'
 author: 'The Knurd Project'
-created: '1586476800000'
-category: ''
-itunes_summary: '000220 BEASTARS
-
-
-Featuring music ALI - Wild side e YURiKA - Le zoo
-
-
-Apoia.se  https//apoia.se/theknurdproject (https//apoia.se/theknurdproject)'
-itunes_author: 'The Knurd Project'
-itunes_explicit: 'yes'
-itunes_duration: '010314'
-duration: '64'
-itunes_episode: '215'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/4dfbc95e-4ea8-4773-97cc-9626d4549399/jcast215.mp3'
-enclosures_length_1: '60874825'
-enclosures_type_1: 'audio/mpeg'
+link: ''
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'jcast-215'
+seo_title: 'JCast #215'
+seo_description: 'BEASTARS'
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/4dfbc95e-4ea8-4773-97cc-9626d4549399/jcast215.mp3'
 ---
 00:02:20 BEASTARS
 

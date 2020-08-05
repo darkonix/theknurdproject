@@ -1,33 +1,26 @@
 ---
+id: '9cbd6228-b27d-4e1a-9b87-2bba787bf737'
+shows_id: '66a084af-ff91-411c-82f1-853c5454eaff'
+media_id: 'a02f04b1-ed25-4856-b007-f0c5b5c7a002'
 title: 'JCast #209'
-id: 'https//darkonix.hipcast.com/deluge/jcast209.mp3'
-description: 'Nesse Episódio
+itunes_title: 'JCast #209'
+published_date: '2019-02-12T013357.000Z'
+guid: 'https//darkonix.hipcast.com/deluge/jcast209.mp3'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/af2c0c87-9474-4161-9558-7b209686fbf1/1001-itunes-1582314570.jpg'
+shownotes: '
+        <p>Nesse Episódio<br />
+000148 Gaikotsu Shotenin Honda-san<br />
+000530 Banana Fish<br />
+002125 SSSS.Gridman<br />
+010152 Kamen Rider OOO</p>
+<p>Gabriela trabalhava com o que ela chamava de “Faxina Gourmet”. Um belo dia, sentada num local que em 2005 teria sido chamado de “cyber-café”, lendo os classificados no jornal e evitando circular anúncios com sua esferográfica azul para evitar a vergonha de completar o “desempregada starter pack”, ela teve a bela ideia de fazer faxina em apartamentos pequenos de gente rica e solteira. Talvez um cachorro pudesse até entrar na equação e talvez ela pudesse ocasionalmente lavar e podar dito cachorro, mas não iria querer lidar com gatos. Ela chegaria rigorosamente vestida de Mary Poppins dos trópicos, com a camisa bem abotoada feita de fábrica mais adequada ao calor brasileiro e alguma alternativa ao saião de crente que, apesar de fresco, não lhe caía bem nos quadris; ela estaria carregando uma maletinha de plástico bruta e prática, como uma grande caixa de ferramentas, que contrastaria com seu corpo franzino mas passaria o respeito necessário para compensar a sua  aparente falta de experiência.</p>
+<p>A maleta teria vários compartimentos, como as caixas de ferramenta tradicionais, mas ao invés de chaves-de-fenda ela conteria os mais diversos objetos ligados a limpeza. Os pincéis e esponjas e pequenos esfregões apropriados a diferentes superfícies, um tipo de limpeza que seria desnecessária para a maioria das pessoas e até exagerada para outras, mas que encheria os olhos de playboys, socialites e alpinistas sociais de pequeno porte, que nunca teriam ouvido falar de tal serviço e por isso mesmo estariam dispostos a pagar taxas premium para ter o que comentar com os amigos no final-de-semana em Búzios (eles seriam mais posers do que realmente ricos). E esses amigos ficariam com inveja e também pagariam por sua diária e ela estaria a semana toda ocupada fazendo o mínimo e ganhando o máximo em apartamentos tristonhos e modulados, parecidos com cenários de TV, que raramente viam seus donos, ocupados como estavam sendo adulados por guiarem exitosamente e em tão tenra idade seus empreendimentos de sucesso, ou simplesmente treinando pilates (Pilates se treina?).</p>
+<p>E todo esse refluxo azedo de velhas lembranças recentes só se avolumava em sua garganta porque, sob o efeito daquela cápsula que mais parecia um produto da Natura feito para estourar no dedo e passar nas olheiras, ela havia se tornado a própria maleta jogada no canto. Aquela velha maleta que usara nos dois primeiros meses de seu negócio, os únicos meses em que ele funcionou de forma agonizante e patética antes de simplesmente morrer como a péssima ideia que sempre fora. Isso não era o mesmo que dizer que seu empreendimento de nada servira, pois o projeto fora revitalizado e reformulado por Valéria, que lhe dera uma diferente forma e propósito. Assim como Gabriela irradiava sua consciência até cada ranhura da grande e bruta cômoda de mogno que abrigava e mofava suas roupas, pintada com técnicas de pátina por certo pintor que se empolgara demais num serviço que deveria ser simples e nada artístico, ela também se sentia conectada com sua melhor amiga, habitava seu corpo, era bombeada de seu coração para o cérebro através de todas as vias possíveis e saía por suas orelhas em absurdos jatos intermitentes que poderiam ser tanto algodão doce como ejaculação masculina cor-de-rosa. Nada disso fazia o menor sentido, porém cada nova conexão estabelecida com uma pessoa ou objeto trazia de volta memórias de sua história juntos. Estar em sintonia com Valéria trazia também um novo e estranho entendimento acerca da natureza de suas intenções.</p>
+<p>Naquele momento ela não se focou em lembranças de como se conheceram fisicamente; esse episódio empalidecia quando comparado ao dia em que se conheceram realmente. Nem mesmo as festas que realizaram nas casas de seus clientes enquanto estes estavam fora, chamando sempre um pequeno grupo de amigos, desfrutando da jacuzzi, fumando</p>
 
-000148 Gaikotsu Shotenin Honda-san
-
-000530 Banana Fish
-
-002125 SSSS.Gridman
-
-010152 Kamen Rider OOO
-
-
-Gabriela trabalhava com o que ela chamava de “Faxina Gourmet”. Um belo dia, sentada num local que em 2005 teria sido chamado de “cyber-café”, lendo os classificados no jornal e evitando circular anúncios com sua esferográfica azul para evitar a vergonha de completar o “desempregada starter pack”, ela teve a bela ideia de fazer faxina em apartamentos pequenos de gente rica e solteira. Talvez um cachorro pudesse até entrar na equação e talvez ela pudesse ocasionalmente lavar e podar dito cachorro, mas não iria querer lidar com gatos. Ela chegaria rigorosamente vestida de Mary Poppins dos trópicos, com a camisa bem abotoada feita de fábrica mais adequada ao calor brasileiro e alguma alternativa ao saião de crente que, apesar de fresco, não lhe caía bem nos quadris; ela estaria carregando uma maletinha de plástico bruta e prática, como uma grande caixa de ferramentas, que contrastaria com seu corpo franzino mas passaria o respeito necessário para compensar a sua  aparente falta de experiência.
-
-
-A maleta teria vários compartimentos, como as caixas de ferramenta tradicionais, mas ao invés de chaves-de-fenda ela conteria os mais diversos objetos ligados a limpeza. Os pincéis e esponjas e pequenos esfregões apropriados a diferentes superfícies, um tipo de limpeza que seria desnecessária para a maioria das pessoas e até exagerada para outras, mas que encheria os olhos de playboys, socialites e alpinistas sociais de pequeno porte, que nunca teriam ouvido falar de tal serviço e por isso mesmo estariam dispostos a pagar taxas premium para ter o que comentar com os amigos no final-de-semana em Búzios (eles seriam mais posers do que realmente ricos). E esses amigos ficariam com inveja e também pagariam por sua diária e ela estaria a semana toda ocupada fazendo o mínimo e ganhando o máximo em apartamentos tristonhos e modulados, parecidos com cenários de TV, que raramente viam seus donos, ocupados como estavam sendo adulados por guiarem exitosamente e em tão tenra idade seus empreendimentos de sucesso, ou simplesmente treinando pilates (Pilates se treina?).
-
-
-E todo esse refluxo azedo de velhas lembranças recentes só se avolumava em sua garganta porque, sob o efeito daquela cápsula que mais parecia um produto da Natura feito para estourar no dedo e passar nas olheiras, ela havia se tornado a própria maleta jogada no canto. Aquela velha maleta que usara nos dois primeiros meses de seu negócio, os únicos meses em que ele funcionou de forma agonizante e patética antes de simplesmente morrer como a péssima ideia que sempre fora. Isso não era o mesmo que dizer que seu empreendimento de nada servira, pois o projeto fora revitalizado e reformulado por Valéria, que lhe dera uma diferente forma e propósito. Assim como Gabriela irradiava sua consciência até cada ranhura da grande e bruta cômoda de mogno que abrigava e mofava suas roupas, pintada com técnicas de pátina por certo pintor que se empolgara demais num serviço que deveria ser simples e nada artístico, ela também se sentia conectada com sua melhor amiga, habitava seu corpo, era bombeada de seu coração para o cérebro através de todas as vias possíveis e saía por suas orelhas em absurdos jatos intermitentes que poderiam ser tanto algodão doce como ejaculação masculina cor-de-rosa. Nada disso fazia o menor sentido, porém cada nova conexão estabelecida com uma pessoa ou objeto trazia de volta memórias de sua história juntos. Estar em sintonia com Valéria trazia também um novo e estranho entendimento acerca da natureza de suas intenções.
-
-
-Naquele momento ela não se focou em lembranças de como se conheceram fisicamente; esse episódio empalidecia quando comparado ao dia em que se conheceram realmente. Nem mesmo as festas que realizaram nas casas de seus clientes enquanto estes estavam fora, chamando sempre um pequeno grupo de amigos, desfrutando da...'
-url: 'https//jcast.captivate.fm/episode/jcast-209'
-link: 'https//jcast.captivate.fm/episode/jcast-209'
-author: 'Mycke Ramos'
-created: '1549949637000'
-category: ''
-itunes_summary: 'Nesse Episódio
+      '
+summary: 'Nesse Episódio
 000148 Gaikotsu Shotenin Honda-san
 000530 Banana Fish
 002125 SSSS.Gridman
@@ -39,16 +32,44 @@ A maleta teria vários compartimentos, como as caixas de ferramenta tradicionais
 
 E todo esse refluxo azedo de velhas lembranças recentes só se avolumava em sua garganta porque, sob o efeito daquela cápsula que mais parecia um produto da Natura feito para estourar no dedo e passar nas olheiras, ela havia se tornado a própria maleta jogada no canto. Aquela velha maleta que usara nos dois primeiros meses de seu negócio, os únicos meses em que ele funcionou de forma agonizante e patética antes de simplesmente morrer como a péssima ideia que sempre fora. Isso não era o mesmo que dizer que seu empreendimento de nada servira, pois o projeto fora revitalizado e reformulado por Valéria, que lhe dera uma diferente forma e propósito. Assim como Gabriela irradiava sua consciência até cada ranhura da grande e bruta cômoda de mogno que abrigava e mofava suas roupas, pintada com técnicas de pátina por certo pintor que se empolgara demais num serviço que deveria ser simples e nada artístico, ela também se sentia conectada com sua melhor amiga, habitava seu corpo, era bombeada de seu coração para o cérebro através de todas as vias possíveis e saía por suas orelhas em absurdos jatos intermitentes que poderiam ser tanto algodão doce como ejaculação masculina cor-de-rosa. Nada disso fazia o menor sentido, porém cada nova conexão estabelecida com uma pessoa ou objeto trazia de volta memórias de sua história juntos. Estar em sintonia com Valéria trazia também um novo e estranho entendimento acerca da natureza de suas intenções. 
 
-Naquele momento ela não se focou em lembranças de como se conheceram fisicamente; esse episódio empalidecia quando comparado ao dia em que se conheceram realmente. Nem mesmo as festas que realizaram nas casas de seus clientes enquanto estes estavam fora, chamando sempre um pequeno grupo de amigos, desfrutando da jacuzzi,...'
-itunes_author: 'Mycke Ramos'
-itunes_explicit: 'no'
-itunes_duration: '012759'
-duration: '88'
-itunes_episode: '209'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/a02f04b1-ed25-4856-b007-f0c5b5c7a002/jcast209_tc.mp3'
-enclosures_length_1: '64586742'
-enclosures_type_1: 'audio/mpeg'
+Naquele momento ela não se focou em lembranças de como se conheceram fisicamente; esse episódio empalidecia quando comparado ao dia em que se conheceram realmente. Nem mesmo as festas que realizaram nas casas de seus clientes enquanto estes estavam fora, chamando sempre um pequeno grupo de amigos, desfrutando da jacuzzi, fumando'
+episode_type: 'full'
+episode_season: '0'
+episode_number: '209'
+itunes_subtitle: 'Nesse Episódio
+000148 Gaikotsu Shotenin Honda-san
+000530 Banana Fish
+002125 SSSS.Gridman
+010152 Kamen Rider OOO
+
+Gabriela trabalhava com o que ela chamava de “Faxina Gourmet”. Um belo dia, sentada num local que em 2005 teria sido chamado de “cyber-café”, lendo os classificados no jornal e evitando circular anúncios com sua esferográfica azul para evitar a vergonha de completar o “desempregada starter pack”, ela teve a bela ideia de fazer faxina em apartamentos pequenos de gente rica e solteira. Talvez um cachorro pudesse até entrar na equação e talvez ela pudesse ocasionalmente lavar e podar dito cachorro, mas não iria querer lidar com gatos. Ela chegaria rigorosamente vestida de Mary Poppins dos trópicos, com a camisa bem abotoada feita de fábrica mais adequada ao calor brasileiro e alguma alternativa ao saião de crente que, apesar de fresco, não lhe caía bem nos quadris; ela estaria carregando uma maletinha de plástico bruta e prática, como uma grande caixa de ferramentas, que contrastaria com seu corpo franzino mas passaria o respeito necessário para compensar a sua  aparente falta de experiência.
+
+A maleta teria vários compartimentos, como as caixas de ferramenta tradicionais, mas ao invés de chaves-de-fenda ela conteria os mais diversos objetos ligados a limpeza. Os pincéis e esponjas e pequenos esfregões apropriados a diferentes superfícies, um tipo de limpeza que seria desnecessária para a maioria das pessoas e até exagerada para outras, mas que encheria os olhos de playboys, socialites e alpinistas sociais de pequeno porte, que nunca teriam ouvido falar de tal serviço e por isso mesmo estariam dispostos a pagar taxas premium para ter o que comentar com os amigos no final-de-semana em Búzios (eles seriam mais posers do que realmente ricos). E esses amigos ficariam com inveja e também pagariam por sua diária e ela estaria a semana toda ocupada fazendo o mínimo e ganhando o máximo em apartamentos tristonhos e modulados, parecidos com cenários de TV, que raramente viam seus donos, ocupados como estavam sendo adulados por guiarem exitosamente e em tão tenra idade seus empreendimentos de sucesso, ou simplesmente treinando pilates (Pilates se treina?). 
+
+E todo esse refluxo azedo de velhas lembranças recentes só se avolumava em sua garganta porque, sob o efeito daquela cápsula que mais parecia um produto da Natura feito para estourar no dedo e passar nas olheiras, ela havia se tornado a própria maleta jogada no canto. Aquela velha maleta que usara nos dois primeiros meses de seu negócio, os únicos meses em que ele funcionou de forma agonizante e patética antes de simplesmente morrer como a péssima ideia que sempre fora. Isso não era o mesmo que dizer que seu empreendimento de nada servira, pois o projeto fora revitalizado e reformulado por Valéria, que lhe dera uma diferente forma e propósito. Assim como Gabriela irradiava sua consciência até cada ranhura da grande e bruta cômoda de mogno que abrigava e mofava suas roupas, pintada com técnicas de pátina por certo pintor que se empolgara demais num serviço que deveria ser simples e nada artístico, ela também se sentia conectada com sua melhor amiga, habitava seu corpo, era bombeada de seu coração para o cérebro através de todas as vias possíveis e saía por suas orelhas em absurdos jatos intermitentes que poderiam ser tanto algodão doce como ejaculação masculina cor-de-rosa. Nada disso fazia o menor sentido, porém cada nova conexão estabelecida com uma pessoa ou objeto trazia de volta memórias de sua história juntos. Estar em sintonia com Valéria trazia também um novo e estranho entendimento acerca da natureza de suas intenções. 
+
+Naquele momento ela não se focou em lembranças de como se conheceram fisicamente; esse episódio empalidecia quando comparado ao dia em que se conheceram realmente. Nem mesmo as festas que realizaram nas casas de seus clientes enquanto estes estavam fora, chamando sempre um pequeno grupo de amigos, desfrutando da jacuzzi, fumando'
+author: 'Mycke Ramos'
+link: 'https//jcast.simplecast.com/episodes/jcast-209-BB85T_Ne'
+explicit: 'clean'
+itunes_block: 'no'
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: 'null'
+post_id: '0'
+website_title: 'null'
+is_active: '1'
+failed_import: '0'
+slug: '0'
+seo_title: 'null'
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/a02f04b1-ed25-4856-b007-f0c5b5c7a002/jcast209_tc.mp3'
 ---
 Nesse Episódio:  
 00:01:48 Gaikotsu Shotenin Honda-san  

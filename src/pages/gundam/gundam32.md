@@ -1,31 +1,48 @@
 ---
+id: '37564973-aeac-4774-a6e9-32b57ba78a39'
+shows_id: '97017ac7-71ca-4113-b131-56c1003ec136'
+media_id: '8e73d1c3-f1f1-4b99-b871-f0e4b37d4ad9'
 title: 'Café com Gundam #32'
-id: 'https//darkonix.hipcast.com/deluge/cafecomgundam32.mp3'
-description: 'Sayla se encontra dividida sobre o que fazer com seu irmão e toda a tripulação está preocupado com a sua indisposição. Enquanto isso, Dren prepara um ataque em larga escala à Base Branca.
+itunes_title: 'Café com Gundam #32'
+published_date: '2019-04-06T100000.000Z'
+guid: 'https//darkonix.hipcast.com/deluge/cafecomgundam32.mp3'
+status: 'Published'
+episode_art: 'https//artwork.captivate.fm/569ca17e-0084-40f6-99cf-5bf50ae5d69b/1005-itunes-1582369201.jpg'
+shownotes: '
+        <p>Sayla se encontra dividida sobre o que fazer com seu irmão e toda a tripulação está preocupado com a sua indisposição. Enquanto isso, Dren prepara um ataque em larga escala à Base Branca.</p>
+<p>Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!</p>
 
-
-Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!
-
-
- <a rel="payment" href="https//apoia.se/theknurdproject">Support this podcast</a>'
-url: 'https//cafecomgundam.captivate.fm/episode/cafe-com-gundam-32'
-link: 'https//cafecomgundam.captivate.fm/episode/cafe-com-gundam-32'
-author: 'Mycke Ramos'
-created: '1554555600000'
-category: ''
-itunes_summary: 'Sayla se encontra dividida sobre o que fazer com seu irmão e toda a tripulação está preocupado com a sua indisposição. Enquanto isso, Dren prepara um ataque em larga escala à Base Branca.
+      '
+summary: 'Sayla se encontra dividida sobre o que fazer com seu irmão e toda a tripulação está preocupado com a sua indisposição. Enquanto isso, Dren prepara um ataque em larga escala à Base Branca.
 
 Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!'
-itunes_author: 'Mycke Ramos'
-itunes_explicit: 'no'
-itunes_duration: '3050'
-duration: '1850'
-itunes_season: '79'
-itunes_episode: '32'
-itunes_episode_type: 'full'
-enclosures_url_1: 'https//podcasts.captivate.fm/media/8e73d1c3-f1f1-4b99-b871-f0e4b37d4ad9/cafecomgundam32_tc.mp3'
-enclosures_length_1: '30449002'
-enclosures_type_1: 'audio/mpeg'
+episode_type: 'full'
+episode_season: '79'
+episode_number: '32'
+itunes_subtitle: 'Sayla se encontra dividida sobre o que fazer com seu irmão e toda a tripulação está preocupado com a sua indisposição. Enquanto isso, Dren prepara um ataque em larga escala à Base Branca.
+
+Café com Gundam é o seu cereal matinal feito de titânio de Luna, o blend perfeito da brisa da manhã e o cheiro de pólvora nos campos de batalha do Ano de Guerra. Toda semana, Darko assiste um episódio enquanto toma um chazinho e comenta suas impressões enquanto novato na franquia que revolucionou a ficção científica no Japão. Voe, Gundam!'
+author: 'Mycke Ramos'
+link: 'https//cafe-com-gundam.simplecast.com/episodes/cafe-com-gundam-32-RVUiLBDf'
+explicit: 'clean'
+itunes_block: 'no'
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: 'null'
+post_id: '0'
+website_title: 'null'
+is_active: '1'
+failed_import: '0'
+slug: '0'
+seo_title: 'null'
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https//podcasts.captivate.fm/media/8e73d1c3-f1f1-4b99-b871-f0e4b37d4ad9/cafecomgundam32_tc.mp3'
 ---
 Sayla se encontra dividida sobre o que fazer com seu irmão e toda a tripulação está preocupado com a sua indisposição. Enquanto isso, Dren prepara um ataque em larga escala à Base Branca.
 

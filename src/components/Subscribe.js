@@ -6,6 +6,9 @@ const query = graphql`
     site {
       siteMetadata {
         siteUrl,
+        social {
+          twitter
+        },
         feed {
           rss
           apple
@@ -42,6 +45,10 @@ class Subscribe extends React.Component {
                 </Link>
               </p>
               <p>
+                <a href={metaData.social.twitter} target="_blank">
+                  Twitter
+                </a>{' '}
+                &bull;{' '}
                 <a href={metaData.feed.apple} target="_blank">
                   iTunes
                 </a>{' '}

@@ -5,7 +5,7 @@ module.exports = {
     description: 'Podcasts Amadores Anticoloniais',
     siteUrl: 'https://knurd.com.br',
     social: {
-      twitter: '@theknurdproject',
+      twitter: 'https://twitter.com/TheKnurdProject',
     },
     feed: {
       rss: 'https://feeds.captivate.fm/jcast/',

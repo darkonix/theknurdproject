@@ -109,7 +109,7 @@ export const pageQuery = graphql`
       frontmatter {
         id
         title
-        published_date(formatString: "DD/MM/YY")
+        published_date(formatString: "L LT", locale: "pt-BR")
         media_url
       }
       fields {

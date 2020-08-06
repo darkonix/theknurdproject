@@ -22,42 +22,44 @@ const BlogIndex = ({ siteTitle, location, posts, numPages, currentPage, category
 
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
-        return (
-          <div key={node.fields.slug}>
-            <h3
-              style={{
-                marginTop: rhythm(1),
-                marginBottom: 0,
-                textDecoration: 'underline',
-              }}
-            >
-              <Link style={{ boxShadow: 'none' }} to={`/${node.fields.category}/${node.fields.slug}`}>
-                {title}
-              </Link>
-            </h3>
-            <small style={{ marginBottom: rhythm(1 / 4) }}>
-              {`${node.frontmatter.published_date} • `}
-               
-               <Link style={{ boxShadow: 'none' }} to={node.frontmatter.media_url.replace('//', '://')}>
-                Download
-              </Link>
-            </small>
-            {
-              <iframe
-                src={`https://player.captivate.fm/${node.frontmatter.id}`}
-                class="captivate-sharer"
-                width="100%"
-                height="170"
-                border-radius="10px"
-                frameBorder="0"
-                scrolling="no"
-                seamless
-              ></iframe>
-            }
+        if (moment(node.frontmatter.published_date, 'DD/MM/YY HH:mm') <= moment()) {
+          return (
+            <div key={node.fields.slug}>
+              <h3
+                style={{
+                  marginTop: rhythm(1),
+                  marginBottom: 0,
+                  textDecoration: 'underline',
+                }}
+              >
+                <Link style={{ boxShadow: 'none' }} to={`/${node.fields.category}/${node.fields.slug}`}>
+                  {title}
+                </Link>
+              </h3>
+              <small style={{ marginBottom: rhythm(1 / 4) }}>
+                {`${node.frontmatter.published_date} • `}
+                
+                <a href={node.frontmatter.media_url.replace('//', '://')} style={{ boxShadow: 'none' }}>
+                  Download
+                </a>
+              </small>
+              {
+                <iframe
+                  src={`https://player.captivate.fm/${node.frontmatter.id}`}
+                  className="captivate-sharer"
+                  width="100%"
+                  height="170"
+                  border-radius="10px"
+                  frameBorder="0"
+                  scrolling="no"
+                  seamless
+                ></iframe>
+              }
 
-            <div dangerouslySetInnerHTML={{ __html: node.html }} />
-          </div>
-        )
+              <div dangerouslySetInnerHTML={{ __html: node.html }} />
+            </div>
+          )
+        }
       })}
       <div>
         <ul

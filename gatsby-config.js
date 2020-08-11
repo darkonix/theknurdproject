@@ -8,7 +8,7 @@ module.exports = {
       twitter: 'https://twitter.com/TheKnurdProject',
     },
     feed: {
-      rss: 'https://feeds.captivate.fm/jcast/',
+      rss: 'https://feeds.captivate.fm/theknurdproject/',
       apple: 'https://itunes.apple.com/podcast/the-knurd-project/id306468034',
     },
     categories: [

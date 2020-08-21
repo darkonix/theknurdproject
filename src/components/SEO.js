@@ -30,7 +30,7 @@ function SEO({ meta, image=cover, title, description, slug, appId=1437677655, em
       render={data => {
         const { siteMetadata } = data.site
         const metaDescription = description || siteMetadata.description
-        const metaImage = image ? `${siteMetadata.siteUrl}${image}` : null
+        const metaImage = image ? image : null
         const url = `${siteMetadata.siteUrl}${slug}`
         return (
           <Helmet

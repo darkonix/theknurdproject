@@ -19,6 +19,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteMetadata.title}>
         <SEO
+          image={post.frontmatter.episode_art}
           title={post.frontmatter.title}
           description={post.frontmatter.description}
           slug={post.fields.slug}
@@ -111,6 +112,7 @@ export const pageQuery = graphql`
         title
         published_date(formatString: "L LT", locale: "pt-BR")
         media_url
+        episode_art
       }
       fields {
         slug

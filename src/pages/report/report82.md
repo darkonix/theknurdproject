@@ -43,11 +43,3 @@ media_url: 'https//podcasts.captivate.fm/media/82d8cffe-0913-4f2d-aca1-021156634
 Featuring music: **Chico César - History** e **Chico César - Tambor**
 
 Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)
-
-<item><title>Knurd Report #82</title><itunes:title>Knurd Report #82</itunes:title><description>00:00:55 Little Fires Everywhere
-00:27:15 Defending Jacob
-00:48:05 Little America
-Featuring music: Chico César - History e Chico César - Tambor
-Apoia.se: https://apoia.se/theknurdproject (https://apoia.se/theknurdproject)
-</description><content:encoded><![CDATA[]]></content:encoded><link><![CDATA[https://www.knurd.com.br/report/knurd-report-82]]></link><guid isPermaLink="false">4d5e4158-4882-450e-8a91-9f907db1b1a5</guid><itunes:image href=""/><dc:creator><![CDATA[The Knurd Project]]></dc:creator><pubDate>Sun, 25 Oct 2020 22:00:00 -0300</pubDate><enclosure url="https://podcasts.captivate.fm/media/82d8cffe-0913-4f2d-aca1-021156634cff/knurd82.mp3" length="57486819" type="audio/mpeg"/><itunes:duration>59:08</itunes:duration><itunes:explicit>yes</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>82</itunes:episode><itunes:summary>
-</itunes:summary><itunes:author>The Knurd Project</itunes:author></item>

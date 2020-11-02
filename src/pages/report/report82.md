@@ -34,7 +34,7 @@ episode_expiration: 'null'
 auto_tweeted: '0'
 video_repurposed: 'null'
 video_s3_key: 'null'
-media_url: 'https//podcasts.captivate.fm/media/82d8cffe-0913-4f2d-aca1-021156634cff/knurd81.mp3'
+media_url: 'https://podcasts.captivate.fm/media/82d8cffe-0913-4f2d-aca1-021156634cff/knurd82.mp3'
 ---
 *   00:00:55 Little Fires Everywhere
 *   00:27:15 Defending Jacob

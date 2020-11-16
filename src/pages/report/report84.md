@@ -1,0 +1,43 @@
+---
+id: 'f28b1254-af82-4a84-b526-c00032189977'
+shows_id: '1a361d2d-0652-4b5f-aa4c-03181ab7c2d8'
+media_id: '3a2f8437-7967-4555-893a-57a68cdd4cf1'
+title: 'Knurd Report #84'
+itunes_title: ''
+published_date: '2020-11-15T211500.000Z'
+guid: 'null'
+status: 'Scheduled'
+episode_art: 'https://artwork.captivate.fm/d30303e6-e6ad-48fb-9bc1-9e150134c545/qlauybz41ibzj3z3vxahk-3w.jpg'
+shownotes: '<ul><li>00:02:50 I May Destroy You</li></ul><p>Featuring music: <strong>Janelle Monáe - Pynk (feat. Grimes)</strong> e <strong>Janelle Monáe - Cold War</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '84'
+itunes_subtitle: ''
+author: 'The Knurd Project'
+link: 'https//www.knurd.com.br/report/knurd-report-84'
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'knurd-report-84'
+seo_title: ''
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https://podcasts.captivate.fm/media/3a2f8437-7967-4555-893a-57a68cdd4cf1/knurd84.mp3'
+---
+*   00:02:50 I May Destroy You
+
+Featuring music: **Janelle Monáe - Pynk (feat. Grimes)** e **Janelle Monáe - Cold War**
+
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

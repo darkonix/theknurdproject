@@ -1,0 +1,43 @@
+---
+id: 'eab8dcc1-ec95-4b3e-b3f5-4266e4c554c0'
+shows_id: '1a361d2d-0652-4b5f-aa4c-03181ab7c2d8'
+media_id: '2d7371f2-352b-40d1-b920-a8a69d1d4b8c'
+title: 'Knurd Report #85'
+itunes_title: ''
+published_date: '2020-11-22T190000.000Z'
+guid: 'null'
+status: 'Scheduled'
+episode_art: 'https://artwork.captivate.fm/4241a6e7-0332-4eb5-9c11-d2966c51415e/bzkuq9zu-vkxahmxwmnm7xrj.jpg'
+shownotes: '<ul><li>00:01:25 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</li></ul><p>Featuring music: <strong>Marisa Monte - Não É Proibido</strong> e <strong>Marisa Monte - Chocolate</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '85'
+itunes_subtitle: ''
+author: 'The Knurd Project'
+link: 'https//www.knurd.com.br/report/knurd-report-85'
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'knurd-report-85'
+seo_title: ''
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https://podcasts.captivate.fm/media/2d7371f2-352b-40d1-b920-a8a69d1d4b8c/knurd85.mp3'
+---
+*   00:01:25 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+
+Featuring music: **Marisa Monte - Não É Proibido** e **Marisa Monte - Chocolate**
+
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

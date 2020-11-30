@@ -8,7 +8,7 @@ published_date: '2020-11-30T163000.000Z'
 guid: 'null'
 status: 'Scheduled'
 episode_art: 'https://artwork.captivate.fm/954207f2-e635-4970-9ebe-e7e1e07ea56a/hfoi62jle25yvdxjawjcltru.jpg'
-shownotes: '<ul><li>00:01:25 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</li></ul><p>Featuring music: <strong>Marisa Monte - Não É Proibido</strong> e <strong>Marisa Monte - Chocolate</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
+shownotes: '<ul><li>00:01:05 Fringe</li></ul><p>Featuring music: <strong>Mombojó - Ela Voltou Diferente</strong> e <strong>Caetano Veloso - O Quereres</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
 summary: ''
 episode_type: 'full'
 episode_season: 'null'
@@ -36,8 +36,8 @@ video_repurposed: 'null'
 video_s3_key: 'null'
 media_url: 'https://podcasts.captivate.fm/media/2d7371f2-352b-40d1-b920-a8a69d1d4b8c/knurd85.mp3'
 ---
-*   00:01:25 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+*   00:01:05 Fringe
 
-Featuring music: **Marisa Monte - Não É Proibido** e **Marisa Monte - Chocolate**
+Featuring music: **Mombojó - Ela Voltou Diferente** e **Caetano Veloso - O Quereres**
 
 Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

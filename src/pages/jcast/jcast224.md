@@ -1,0 +1,43 @@
+---
+id: '57720b2b-d665-404a-bf68-ebf5af72ab5a'
+shows_id: '66a084af-ff91-411c-82f1-853c5454eaff'
+media_id: 'https://podcasts.captivate.fm/media/054bb065-2b2d-4e26-93bc-5044a1a626c5'
+title: 'JCast #224'
+itunes_title: ''
+published_date: '2020-12-08T133000.000Z'
+guid: 'null'
+status: 'Scheduled'
+episode_art: 'https://artwork.captivate.fm/f7a072f1-7631-4538-a4cc-8195eed83238/ylr6mbfgz1yl-a7g3x0jsfex.jpg'
+shownotes: '<ul><li>00:01:05 Digimon Adventure: Last Evolution - Kizuna</li></ul><p>Featuring music <strong>Ayumi Miyazaki - Sono Saki e</strong> e <strong>AiM – Hanareteite mo</strong></p><p>Apoia.se <a href="https//apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https//apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '224'
+itunes_subtitle: ''
+author: 'The Knurd Project'
+link: 'https://www.knurd.com.br/jcast/jcast-224'
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'jcast-224'
+seo_title: ''
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https://podcasts.captivate.fm/media/054bb065-2b2d-4e26-93bc-5044a1a626c5/jcast224.mp3'
+---
+*   00:01:05 Digimon Adventure: Last Evolution - Kizuna
+
+Featuring music: **Ayumi Miyazaki - Sono Saki e** e **AiM – Hanareteite mo**
+
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

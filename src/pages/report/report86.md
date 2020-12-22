@@ -34,7 +34,7 @@ episode_expiration: 'null'
 auto_tweeted: '0'
 video_repurposed: 'null'
 video_s3_key: 'null'
-media_url: 'https://podcasts.captivate.fm/media/2d7371f2-352b-40d1-b920-a8a69d1d4b8c/knurd85.mp3'
+media_url: 'https://podcasts.captivate.fm/media/9d08f161-41f0-405b-8448-08e8e9220f9e/knurd86.mp3'
 ---
 *   00:01:05 Fringe
 

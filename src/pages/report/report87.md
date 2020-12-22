@@ -1,0 +1,43 @@
+---
+id: 'c1365ee5-dd69-488e-9d80-969369349d0a'
+shows_id: '1a361d2d-0652-4b5f-aa4c-03181ab7c2d8'
+media_id: '72f44b8f-647e-4d29-807b-1e1009f3c788'
+title: 'Knurd Report #87'
+itunes_title: ''
+published_date: '2020-12-22T193000.000Z'
+guid: 'null'
+status: 'Scheduled'
+episode_art: 'https://artwork.captivate.fm/99394285-7d3c-461b-b697-a8f39c25caf9/vtm40vaegygvhxo4o3n8y7vm.jpg'
+shownotes: '<ul><li>00:00:50 Lovecraft Country</li></ul><p>Featuring music: <strong>Alice Smith - Sinnerman</strong> e <strong>Alice Smith - I Put A Spell On You</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '87'
+itunes_subtitle: ''
+author: 'The Knurd Project'
+link: 'https//www.knurd.com.br/report/knurd-report-87'
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'knurd-report-87'
+seo_title: ''
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+media_url: 'https://podcasts.captivate.fm/media/72f44b8f-647e-4d29-807b-1e1009f3c788/knurd87.mp3'
+---
+*   00:00:50 Lovecraft Country
+
+Featuring music: **Alice Smith - Sinnerman** e **Alice Smith - I Put A Spell On You**
+
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

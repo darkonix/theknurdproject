@@ -41,7 +41,7 @@ class BlogPostTemplate extends React.Component {
           <small style={{ marginBottom: '1.75em' }}>
               {`${post.frontmatter.published_date} • `}
                
-               <Link style={{ boxShadow: 'none' }} to={post.frontmatter.media_url.replace('//', '://')}>
+               <Link style={{ boxShadow: 'none' }} to={post.frontmatter.media_url}>
                 Download
               </Link>
             </small>

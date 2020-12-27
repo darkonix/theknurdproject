@@ -39,7 +39,7 @@ const BlogIndex = ({ siteTitle, location, posts, numPages, currentPage, category
               <small style={{ marginBottom: rhythm(1 / 4) }}>
                 {`${node.frontmatter.published_date} • `}
                 
-                <a href={node.frontmatter.media_url.replace('//', '://')} style={{ boxShadow: 'none' }}>
+                <a href={node.frontmatter.media_url} style={{ boxShadow: 'none' }}>
                   Download
                 </a>
               </small>

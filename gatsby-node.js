@@ -22,6 +22,7 @@ exports.createPages = ({ graphql, actions }) => {
         `
           {
             allMarkdownRemark(
+              filter: {fields: {isFuturePost: {eq: false}}},
               sort: { fields: [frontmatter___published_date, frontmatter___title], order: [DESC, DESC] },
               limit: 1000
             ) {
@@ -128,6 +129,15 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       name: `category`,
       node,
       value: category,
+    })
+
+    // create a marker for future posts
+    const publishedDate = node.frontmatter.published_date;
+    const isFuturePost = !publishedDate || (new Date(publishedDate)).getTime() > Date.now()
+    createNodeField({
+      name: `isFuturePost`,
+      node,
+      value: isFuturePost,
     })
   }
 }

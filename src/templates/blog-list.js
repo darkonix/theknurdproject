@@ -22,6 +22,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
+      filter: {fields: {isFuturePost: {eq: false}}}
       sort: { fields: [frontmatter___published_date], order: DESC }
       limit: $limit
       skip: $skip

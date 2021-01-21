@@ -25,7 +25,7 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___published_date], order: DESC }
       limit: $limit
       skip: $skip
-      filter: { fields: { category: { eq: $category } } }
+      filter: { fields: { category: { eq: $category }, isFuturePost: {eq: false} } }
       ) {
       edges {
         node {

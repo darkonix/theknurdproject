@@ -1,0 +1,48 @@
+---
+id: '53b78228-a45f-4668-802f-fc17f078fe24'
+shows_id: '1a361d2d-0652-4b5f-aa4c-03181ab7c2d8'
+media_id: '5ab207ea-7e9d-4c25-b262-c27149f4c1a1'
+title: 'Knurd Report #91'
+itunes_title: ''
+published_date: '2021-02-21T19:00:00.000Z'
+guid: 'null'
+status: 'Scheduled'
+episode_art: 'https://artwork.captivate.fm/73d42109-fd4a-43c3-a7a0-80b9d40ea3d6/iaF2URfB90z3MI8sFGSxcdqH.png'
+shownotes: '<ul><li>00:01:10 Star Trek Discovery - Primeiros Episódios</li><li>00:27:25 Star Trek Discovery - Temporada Completa</li></ul><p>Featuring music: <strong>Simon &amp; Garfunkel - The Only Living Boy in New York</strong> e <strong>I Monster - Daydream in Blue (BBC Radio 2 Session)</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
+summary: ''
+episode_type: 'full'
+episode_season: 'null'
+episode_number: '91'
+itunes_subtitle: ''
+author: 'The Knurd Project'
+link: 'https://www.knurd.com.br/report/knurd-report-91'
+explicit: 'explicit'
+itunes_block: ''
+google_block: ''
+google_description: ''
+donation_link: ''
+donation_text: ''
+post_id: 'null'
+website_title: ''
+is_active: '1'
+failed_import: '0'
+slug: 'knurd-report-91'
+seo_title: ''
+seo_description: ''
+episode_private: '0'
+episode_expiration: 'null'
+auto_tweeted: '0'
+video_repurposed: 'null'
+video_s3_key: 'null'
+import_errors: 'null'
+transcription_html: 'null'
+transcription_file: 'null'
+transcription_json: 'null'
+media_url: 'https://podcasts.captivate.fm/media/5ab207ea-7e9d-4c25-b262-c27149f4c1a1/knurd91.mp3'
+---
+*   00:01:10 Star Trek Discovery - Primeiros Episódios
+*   00:27:25 Star Trek Discovery - Temporada Completa
+
+Featuring music: **Simon & Garfunkel - The Only Living Boy in New York** e **I Monster - Daydream in Blue (BBC Radio 2 Session)**
+
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

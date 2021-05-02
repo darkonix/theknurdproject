@@ -8,7 +8,7 @@ published_date: '2021-04-19T19:00:00.000Z'
 guid: 'null'
 status: 'Scheduled'
 episode_art: 'https://artwork.captivate.fm/41f0124f-f221-4e42-b5cf-4fb680c852df/roUXrrM3cM9ViNX80nfYs84_.jpg'
-shownotes: '<ul><li>00:01:30 Ultraman Z</li></ul><p>Featuring music: <strong>Masaaki Endoh - Goshouwakudasai Ware no Na wo!</strong> e <strong>Nami Tamaki - Connect the Truth</strong></p><p>Apoia.se: https://apoia.se/theknurdproject</p>'
+shownotes: '<ul><li>00:01:30 Ultraman Z</li></ul><p>Featuring music: <strong>Masaaki Endoh - Goshouwakudasai Ware no Na wo!</strong> e <strong>Nami Tamaki - Connect the Truth</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
 summary: ''
 episode_type: 'full'
 episode_season: 'null'
@@ -43,6 +43,6 @@ media_url: 'https://podcasts.captivate.fm/media/0886cf4e-9765-463c-8bef-01437c96
 ---
 *   00:01:30 Ultraman Z
 
-Featuring music: Masaaki Endoh - Goshouwakudasai Ware no Na wo! e Nami Tamaki - Connect the Truth
+Featuring music: **Masaaki Endoh - Goshouwakudasai Ware no Na wo!** e **Nami Tamaki - Connect the Truth**
 
-Apoia.se: https://apoia.se/theknurdproject
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)

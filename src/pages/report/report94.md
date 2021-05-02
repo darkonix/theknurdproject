@@ -8,7 +8,7 @@ published_date: '2021-04-11T19:00:00.000Z'
 guid: 'null'
 status: 'Scheduled'
 episode_art: 'https://artwork.captivate.fm/c140ff50-95dc-40d8-87a0-14fd44445825/aPAa1iKdE3QAfmpEpctO7ImB.jpg'
-shownotes: '<ul><li>00:01:50 The Will to Change</li></ul><p>Featuring music: World / Inferno Friendship Society - Addicted to Bad Ideas e Echo &amp; the Bunnymen - The Killing Moon</p><p>Apoia.se: https://apoia.se/theknurdproject</p>'
+shownotes: '<ul><li>00:01:50 The Will to Change</li></ul><p>Featuring music: <strong>World / Inferno Friendship Society - Addicted to Bad Ideas</strong> e <strong>Echo &amp; the Bunnymen - The Killing Moon</strong></p><p>Apoia.se: <a href="https://apoia.se/theknurdproject" rel="noopener noreferrer" target="_blank">https://apoia.se/theknurdproject</a></p>'
 summary: ''
 episode_type: 'full'
 episode_season: 'null'
@@ -43,6 +43,6 @@ media_url: 'https://podcasts.captivate.fm/media/650c9449-673a-4374-ba3b-8a4da36c
 ---
 *   00:01:50 The Will to Change
 
-Featuring music: World / Inferno Friendship Society - Addicted to Bad Ideas e Echo & the Bunnymen - The Killing Moon
+Featuring music: **World / Inferno Friendship Society - Addicted to Bad Ideas** e **Echo & the Bunnymen - The Killing Moon**
 
-Apoia.se: https://apoia.se/theknurdproject
+Apoia.se: [https://apoia.se/theknurdproject](https://apoia.se/theknurdproject)
